@@ -1,0 +1,86 @@
+.header{
+  min-height: 600px;
+  background: url(../images/landing.jpg);
+}
+.header p{
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+.header img{
+  margin-left: 450px;
+  margin-top: 70px;
+}
+.wall{
+  min-height: 200px;
+  width: 80%;
+  border: 1px  solid grey;
+  margin-left: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.wall .happy{
+  float: left;
+  width: 40%;
+}
+.wall .happy h1{
+  color: #F15A29;
+  text-align: center;
+}
+.wall .happy p{
+  text-align: center;
+
+}
+.wall .about{
+  float: right;
+  width: 40%;
+}
+.wall .about h1{
+  color: #F15A29;
+  text-align: center;
+}
+.wall .about p{
+  text-align: center;
+}
+.advert{
+  min-height: 300px;
+  background-image: url(../images/subscribe.jpg);
+}
+.advert p{
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  margin-top: 20px;
+}
+.advert form{
+  margin-left: 400px;
+}
+footer{
+  margin-top: 0px;
+  min-height: 300px;
+  background-color: #F15A29;
+}
+.juu{
+  margin-top: 20px;
+  padding: 0px;
+  margin-left: 480px;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  align-content: center;
+}
+footer .media{
+  display: inline;
+  margin: 0px 20px 0px 20px;
+}
+footer .word{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+footer .last{
+  text-align: center;
+  font-size: 15px;
+  color: white;
+  margin-bottom: 5px;
+}
